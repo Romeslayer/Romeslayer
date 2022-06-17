@@ -30,11 +30,13 @@ I'm a front end software engineer who recently graduated from the front-end prog
 ![PostGres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 📫 **How to reach me**:
+
 <a href="mailto:denaje.ferguson@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  
 <a href="https://www.linkedin.com/in/denaje/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<br/>
+
 
 
 <!--

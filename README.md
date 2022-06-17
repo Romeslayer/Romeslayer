@@ -36,6 +36,12 @@ I'm a front end software engineer who recently graduated from the front-end prog
   
 <a href="https://www.linkedin.com/in/denaje/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+![DéNaje's GitHub stats](https://github-readme-stats.vercel.app/api?username=romeslayer&show_icons=true&theme=radical)
+  
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romeslayer&layout=compact&theme=radical)
 
 
 

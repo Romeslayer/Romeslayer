@@ -1,6 +1,6 @@
-## Hi there 👋 I'm DéNaje but you can call me D.
+## Hi there 👋 I'm DéNaje ||  D.
 
-I'm a front end software engineer who recently graduated from the front-end program at [Turing School of Software and Design](https://turing.edu/). I am passionate about problem-solving, collaboration and how tech can be used to tell stories and foster better outcomes for us all.
+I'm a front end software engineer who recently graduated from the front-end program at [Turing School of Software and Design](https://turing.edu/). I am passionate about problem-solving, collaboration and how tech can foster better outcomes for us all.
 
 🌱 **I'm currently learning**: 
 
